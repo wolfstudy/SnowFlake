@@ -1,6 +1,5 @@
 /**
  * Created by wolf4j on 17-11-28.
- *
  * twitter的snowflake算法 -- java实现
  */
 public class SnowFlake {
